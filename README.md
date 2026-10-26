@@ -9,8 +9,17 @@ Fast React Pizza Co. combines reusable UI components with client-side routing, c
 [View Live Demo](YOUR_LIVE_DEMO_URL)
 
 ## 📸 Project Preview
+<img width="1355" height="628" alt="Image" src="https://github.com/user-attachments/assets/60c7a453-4d1f-4e85-be86-9d94ee6a6b2b" />
 
-<!-- Add screenshots of the application here -->
+----------
+<img width="1362" height="630" alt="Image" src="https://github.com/user-attachments/assets/64888d07-91f3-4af0-8312-c24d2d13207c" />
+
+----------
+<img width="1354" height="632" alt="Image" src="https://github.com/user-attachments/assets/b1899ca9-3e5b-40a2-a779-952519ef9c5a" />
+
+----------
+<img width="1352" height="630" alt="Image" src="https://github.com/user-attachments/assets/dd7832b5-000a-4d34-ae55-bbf63ebaecda" />
+
 
 ## ✨ Key Features
 
