@@ -6,7 +6,7 @@ Fast React Pizza Co. combines reusable UI components with client-side routing, c
 
 ## 🌐 Live Demo
 
-[View Live Demo](YOUR_LIVE_DEMO_URL)
+https://fast-react-pizza-mahmoud-wahbi.netlify.app/
 
 ## 📸 Project Preview
 <img width="1355" height="628" alt="Image" src="https://github.com/user-attachments/assets/60c7a453-4d1f-4e85-be86-9d94ee6a6b2b" />
